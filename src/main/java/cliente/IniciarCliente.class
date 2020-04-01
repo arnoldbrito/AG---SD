@@ -1,6 +1,6 @@
 package cliente;
 
-/**AG-SD 2**/
+/**AG-SD **/
 
 import java.rmi.Naming;
 import java.rmi.RemoteException;
